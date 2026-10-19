@@ -1,4 +1,4 @@
-"""CineMatch - Hệ thống gợi ý phim bằng Machine Learning (bản giao diện tiếng Việt).
+r"""CineMatch - Hệ thống gợi ý phim bằng Machine Learning (bản giao diện tiếng Việt).
 
 Chạy trong thư mục dự án:
     python -m pip install streamlit pandas numpy scikit-learn scipy
